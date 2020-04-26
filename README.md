@@ -6,4 +6,4 @@ Clark a free one-page resume website template converted to WordPress Theme. The 
 
 Demo: https://clark.95media.co.uk
 
-
+Edited README.
